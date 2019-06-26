@@ -179,4 +179,4 @@ for turn in range((rl*60)):
   <br>
   belgian_waffles.forward(randint(1*rl/10, 3*rl/10))
 <br>
-</center>
+
